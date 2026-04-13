@@ -1,0 +1,17 @@
+{
+    "name": "munastack/container",
+    "description": "The MunaStack Container package",
+    "license": "MIT",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Munastack\\Container\\": ""
+        }
+    },
+    "require": {
+        "php": ">=8.4",
+        "psr/container": "^2.0"
+    }
+}
